@@ -45,17 +45,10 @@ This is a feature-rich console-based football (soccer) game simulation written i
 Match_TeamA_vs_TeamB_YYYYMMDDHHMMSS.txt
 is generated in the same folder with all match events and summaries.
 ```
-## 🚀 Future Improvements
-GUI (WinForms/WPF)
-
-Online multiplayer via TCP sockets
-
-Player database and persistent stats
-
-Full league/tournament simulation
-
 ## 📄 License
 MIT License - Free to use and modify.
 
-## 👤 Author
+## 👤 Author (M.said)                                                               [![GitHub](https://img.shields.io/badge/GitHub-Mostafa--SAID7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mostafa-SAID7)
+
+
 Created with ❤️ using C# and .NET for football fans and coders!
