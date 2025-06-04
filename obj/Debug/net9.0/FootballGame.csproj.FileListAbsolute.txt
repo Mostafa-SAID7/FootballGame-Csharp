@@ -1,0 +1,14 @@
+C:\Users\Mostafa\Desktop\prjs\C# prjs\FootballGame\bin\Debug\net9.0\FootballGame.exe
+C:\Users\Mostafa\Desktop\prjs\C# prjs\FootballGame\bin\Debug\net9.0\FootballGame.deps.json
+C:\Users\Mostafa\Desktop\prjs\C# prjs\FootballGame\bin\Debug\net9.0\FootballGame.runtimeconfig.json
+C:\Users\Mostafa\Desktop\prjs\C# prjs\FootballGame\bin\Debug\net9.0\FootballGame.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\FootballGame\bin\Debug\net9.0\FootballGame.pdb
+C:\Users\Mostafa\Desktop\prjs\C# prjs\FootballGame\obj\Debug\net9.0\FootballGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\Desktop\prjs\C# prjs\FootballGame\obj\Debug\net9.0\FootballGame.AssemblyInfoInputs.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\FootballGame\obj\Debug\net9.0\FootballGame.AssemblyInfo.cs
+C:\Users\Mostafa\Desktop\prjs\C# prjs\FootballGame\obj\Debug\net9.0\FootballGame.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\FootballGame\obj\Debug\net9.0\FootballGame.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\FootballGame\obj\Debug\net9.0\refint\FootballGame.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\FootballGame\obj\Debug\net9.0\FootballGame.pdb
+C:\Users\Mostafa\Desktop\prjs\C# prjs\FootballGame\obj\Debug\net9.0\FootballGame.genruntimeconfig.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\FootballGame\obj\Debug\net9.0\ref\FootballGame.dll
