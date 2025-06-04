@@ -21,8 +21,8 @@ This is a feature-rich console-based football (soccer) game simulation written i
 
 ## 📦 How to Run
 
-1. **Install .NET SDK** (if not already installed):  
-   https://dotnet.microsoft.com/en-us/download
+1. **Install .NET SDK** (if not already installed):                                                 [![.NET](https://img.shields.io/badge/.NET-Download-blue?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/download)
+
 2. **Clone or copy the source code**
 3. **Compile and Run**  
 
@@ -45,10 +45,11 @@ This is a feature-rich console-based football (soccer) game simulation written i
 Match_TeamA_vs_TeamB_YYYYMMDDHHMMSS.txt
 is generated in the same folder with all match events and summaries.
 ```
-## 📄 License
+## 📄 License                                                               [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/Mostafa-SAID7/FootballGame-Csharp/blob/main/LICENSE)
+
 MIT License - Free to use and modify.
 
-## 👤 Author (M.said)                                                               [![GitHub](https://img.shields.io/badge/GitHub-Mostafa--SAID7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mostafa-SAID7)
+## 👤 Author (M.said)                                                 [![GitHub](https://img.shields.io/badge/GitHub-Mostafa--SAID7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mostafa-SAID7)
 
 
 Created with ❤️ using C# and .NET for football fans and coders!
